@@ -1,8 +1,6 @@
 /*
  * 	dma_api.h
  *
- *  Created on: 11th march 2023
- *      Author: Víctor Manuel Navarro Pérez (URJC)
  */
 
 #include <stdio.h>
